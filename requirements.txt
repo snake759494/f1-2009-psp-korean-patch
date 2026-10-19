@@ -1,0 +1,10 @@
+numpy
+scipy
+pillow
+pycdlib
+capstone
+websocket-client
+av
+faster-whisper
+supertonic
+huggingface_hub

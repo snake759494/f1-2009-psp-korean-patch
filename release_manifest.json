@@ -1,0 +1,11 @@
+{
+ "version": "v1.0",
+ "asset": "F1_2009_Europe_KO_v1.0.xdelta",
+ "asset_size": 39988105,
+ "asset_sha256": "c647528d4e5c87846c55884e8dcac0b70aef37481c7e99e6684e153a1b3fae5c",
+ "source_iso_size": 684359680,
+ "source_iso_md5": "fa3bf469327ebfaa4df61e0ea3fe4524",
+ "source_iso_sha256": "85339b42074bd0876122d3176a424577d87eb283ce68f70dacda7c46310d07ed",
+ "result_iso_size": 703973376,
+ "result_iso_sha256": "bbcd6a9cff68bcdc252e43eb0fe47183b3977ec955809b3d0f3bb2fcd14f7f06"
+}
